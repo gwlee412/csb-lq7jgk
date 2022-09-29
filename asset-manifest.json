@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gwlee412.github.io/csb-lq7jgk/static/css/main.c8649941.chunk.css",
+    "main.js": "https://gwlee412.github.io/csb-lq7jgk/static/js/main.aa53a565.chunk.js",
+    "main.js.map": "https://gwlee412.github.io/csb-lq7jgk/static/js/main.aa53a565.chunk.js.map",
+    "runtime-main.js": "https://gwlee412.github.io/csb-lq7jgk/static/js/runtime-main.f9386e6f.js",
+    "runtime-main.js.map": "https://gwlee412.github.io/csb-lq7jgk/static/js/runtime-main.f9386e6f.js.map",
+    "static/js/2.8e2ab20f.chunk.js": "https://gwlee412.github.io/csb-lq7jgk/static/js/2.8e2ab20f.chunk.js",
+    "static/js/2.8e2ab20f.chunk.js.map": "https://gwlee412.github.io/csb-lq7jgk/static/js/2.8e2ab20f.chunk.js.map",
+    "index.html": "https://gwlee412.github.io/csb-lq7jgk/index.html",
+    "static/css/main.c8649941.chunk.css.map": "https://gwlee412.github.io/csb-lq7jgk/static/css/main.c8649941.chunk.css.map",
+    "static/js/2.8e2ab20f.chunk.js.LICENSE.txt": "https://gwlee412.github.io/csb-lq7jgk/static/js/2.8e2ab20f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9386e6f.js",
+    "static/js/2.8e2ab20f.chunk.js",
+    "static/css/main.c8649941.chunk.css",
+    "static/js/main.aa53a565.chunk.js"
+  ]
+}
